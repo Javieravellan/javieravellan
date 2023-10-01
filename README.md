@@ -3,9 +3,7 @@ package javierchiquito;
 
 public class Greeting {
     void main(String... args) {
-        System.out.println("=====  Hola Mundo!.                         =====");
-        System.out.println("=====  Mi nombre es Javier,                 =====");
-        System.out.println("=====  soy ingeniero de software fullstack. =====");
+        System.out.println("=====  HOLA ✋, MI NOMBRE ES JAVIER!  =====");
     }
 }
 ~~~
@@ -13,7 +11,7 @@ public class Greeting {
 - 🧑‍💻 Software developer con más de tres años de experiencia en el medio, trabajando en empresas como [GranComercio](https://grancomercio.com.ec) y [Eclipsoft](https://eclipsoft.com)*(trabajo actual)* en las cuales he contribuido con el desarrollo de diferentes soluciones basadas en 💻 Escritorio, 🌏 Web y servicios REST.
 - Tengo experiencia profesional con Spring, Vanila Javascript, HTML, CSS, jQuery, Node, VueJS, Docker, Nginx, Linux, C#, MySQL, SQL Server, MongoDB, DevExpress y otros.
 - Además me gusta probar otras herramientas de software como [Astro](https://astro.build), [Bun](https://bun.sh), [Flutter](https://flutter.dev) y [Oracle NoSQL](https://www.oracle.com/database/nosql/technologies/nosql/) para aumentar mi abanico de habilidades.
-### Habilidades principales
+### Mis Skills
 [![VueJS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://) 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://) 
 [![Spring boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](https://)
